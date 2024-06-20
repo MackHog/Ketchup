@@ -38,3 +38,16 @@ if (order.HasItems)
 ~~~ 
 
 ### Keep it simple, stupid (KISS)
+
+## SQL
+
+Index scan is bad. Index seek is good.
+
+## Algoritm
+
+### Big O notation
+
+O(1) => Constant Time Complexity (same speed independet of number of elements) => array.indexOf
+O(log n) => Logarithmic Time Complexity. Execution time increases logarithmically with the size of the input => binary search
+O(n) => Linear Time Complexity. Increases proportionally to the size of the input (n = number of elements) => foreach
+O(n²) => Quadratic Time Complexity. if the input size increases, the algorithm’s running time increases by the square of that size => foreach in foreach
