@@ -26,4 +26,4 @@ mkcert localhost 127.0.0.1
 mkcert -install
 
 ### done
-That is all, now use the cert in your local env project
+That is all, now use the cert in your local env project.
