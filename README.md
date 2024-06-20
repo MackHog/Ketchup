@@ -38,6 +38,7 @@ if (order.HasItems)
 ~~~ 
 
 ### Keep it simple, stupid (KISS)
+<<<<<<< HEAD
 
 ## SQL
 
